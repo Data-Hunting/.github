@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Data-Hunting">
-    <img width="200px" src="logo.png">
+    <img width="200px" src="https://github.com/Data-Hunting/.github/blob/3076eef12bc4c011afd96d51089428efa6b66c10/profile/logo.png">
   </a>
 </div>
 <h1 align="center">Welcome Data Hunters⚒️<h1>
